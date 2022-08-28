@@ -10,7 +10,7 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 5.	Determine the winner of the election, winning vote count, and winning percentage of votes.<br/>
 
 #### `Resources`<br/>
-•	Data Source: [Election_results](https://github.com/Valeriia161/Colorado_Election_Analysis/blob/main/election_results.csv.zip) <br/>
+•	Data Source: [Election_results](https://github.com/Valeriia161/Colorado_Election_Analysis/blob/main/election_results.csv.csv) <br/>
 
 •	Software: Python 3.6.1, Visual Studio Code, [Google](https://www.google.com/), Git Bash.
 
